@@ -1,5 +1,5 @@
 h1 {
-    color: green
+    color: purple
 }
 
 li {
@@ -21,15 +21,15 @@ a:link , a:visited {
   }
 
 a:link {
-    color: orange
+    color: green
 }
 
 a:visited {
-    color: orchid
+    color: red
 }
 
 a:hover {
-    color: brown
+    color: grey
 }
 
 a:active {
